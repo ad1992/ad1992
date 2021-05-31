@@ -1,8 +1,9 @@
 ![aakansha-readme](https://user-images.githubusercontent.com/11256141/120216029-1fb61480-c254-11eb-913f-8030bbf619b9.gif)
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ad1992&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ad1992&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ad1992&theme=darkhub&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **ad1992/ad1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
