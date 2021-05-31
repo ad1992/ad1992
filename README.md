@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+![aakansha-readme](https://user-images.githubusercontent.com/11256141/120216029-1fb61480-c254-11eb-913f-8030bbf619b9.gif)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ad1992&show_icons=true&theme=tokyonight)
 
