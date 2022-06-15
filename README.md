@@ -10,11 +10,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ad1992&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-*If you like my work you may consider buying me a ☕ / 🍕* 
-
-<a href="https://www.buymeacoffee.com/aakansha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  height=40 ></a>
-
 🙏 for reading!
 
 <!--
