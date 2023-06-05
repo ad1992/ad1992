@@ -13,7 +13,7 @@
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ad1992&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Thanks🙏for reading! :smiley:
+### Thanks 🙏 for reading! :smiley:
 </div>
 <!--
 **ad1992/ad1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
