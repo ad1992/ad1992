@@ -1,12 +1,12 @@
 <div align = "center">
 
-[![Follow on Twitter](https://img.shields.io/badge/Follow-X-212529)](https://www.x.com/aakansha1216)
-[![Follow on Linkedin](https://img.shields.io/badge/Follow-LinkedIn-0077B5)](https://www.linkedin.com/in/aa1992)
-[![Connect in Gmail](https://img.shields.io/badge/Connect-Gmail-ff6b6b)](mailto:aakansha1216@gmail.com)
-[![Support on Github Sponsors](https://img.shields.io/badge/GitHub-Sponsor-66d9e8)](https://github.com/sponsors/ad1992)
+[![Follow on Twitter](https://img.shields.io/badge/Follow-X-212529?labelColor=4dabf7&style=flat-square)](https://www.x.com/aakansha1216)
+[![Follow on Linkedin](https://img.shields.io/badge/Follow-LinkedIn-0077B5?labelColor=4dabf7&style=flat-square)](https://www.linkedin.com/in/aa1992)
+[![Connect in Gmail](https://img.shields.io/badge/Connect-Gmail-ff6b6b?labelColor=4dabf7&style=flat-square)](mailto:aakansha1216@gmail.com)
 
-[![Talks](https://img.shields.io/badge/Community-Talks-f06595)](https://aakansha.dev/talks)
-[![Appearances](https://img.shields.io/badge/Community-Appearances-20c997)](https://aakansha.dev/appearances)
+[![Support on Github Sponsors](https://img.shields.io/badge/❤️-Sponsor-f06595?labelColor=4dabf7&style=flat-square)](https://github.com/sponsors/ad1992)
+[![Talks](https://img.shields.io/badge/Community-Talks-ff922b?labelColor=4dabf7&style=flat-square)](https://aakansha.dev/talks)
+[![Appearances](https://img.shields.io/badge/Community-Appearances-20c997?labelColor=4dabf7&style=flat-square)](https://aakansha.dev/appearances)
 
 Hi :wave:
 
