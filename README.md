@@ -10,9 +10,7 @@
 
 Hi :wave:
 
-I am Aakansha, a FOSS Enthusiast (Free and OpenSource Software Enthusiast). I love deep-diving into the Internals of Javascript and the Web. I am a core maintainer of [excalidraw](https://github.com/excalidraw/excalidraw), [mermaid-to-excalidraw,](https://github.com/excalidraw/mermaid-to-excalidraw) [react-tags](https://github.com/react-tags/react-tags), and more libraries.
-
-I am a volunteer at [FOSSUnited](https://fossunited.org/) and I lead the FOSS Meetups in Bangalore, India. I am an active conference Speaker.
+I am Aakansha, a FOSS Enthusiast (Free and OpenSource Software Enthusiast). I love deep-diving into the Internals of Javascript and the Web. I am a core maintainer of [excalidraw](https://github.com/excalidraw/excalidraw), [mermaid-to-excalidraw,](https://github.com/excalidraw/mermaid-to-excalidraw) [react-tags](https://github.com/react-tags/react-tags), and more libraries. I am also an active conference Speaker.
 
 As I am an Independent OpenSource developer, I rely on sponsorships to sustain my FOSS work, if you are interested in backing my opensource efforts, you can take a look at my [sponsorship profile](https://github.com/sponsors/ad1992) 🙏
 
