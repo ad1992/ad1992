@@ -8,15 +8,31 @@
 [![Talks](https://img.shields.io/badge/Community-Talks-ff922b?labelColor=4dabf7&style=flat-square)](https://aakansha.dev/talks)
 [![Appearances](https://img.shields.io/badge/Community-Appearances-20c997?labelColor=4dabf7&style=flat-square)](https://aakansha.dev/appearances)
 
+
 Hi :wave:
+</div>
 
 I am Aakansha, a FOSS Enthusiast (Free and OpenSource Software Enthusiast). I love deep-diving into the Internals of Javascript and the Web. I am a core maintainer of [excalidraw](https://github.com/excalidraw/excalidraw), [mermaid-to-excalidraw,](https://github.com/excalidraw/mermaid-to-excalidraw) [react-tags](https://github.com/react-tags/react-tags), and more libraries. I am also an active conference Speaker.
+
 
 As I am an Independent OpenSource developer, I rely on sponsorships to sustain my FOSS work, if you are interested in backing my opensource efforts, you can take a look at my [sponsorship profile](https://github.com/sponsors/ad1992) 🙏
 
 If you would like to discuss something, just drop me an [email](mailto:aakansha1216@gmail.com) :)
 
+
+## Canvas X React Workshop in 2025
+
+I’ve been working on something exciting — **a Half-day workshop diving deep into Canvas this January 2025**. It’s been a fun journey putting it together! 😊.
+
+Checkout the details 👇
+
+<div align = "center">
+
+[![image](https://github.com/user-attachments/assets/6ac9c908-8141-4fab-ad35-fb7d5e66e4d8)](https://www.aakansha.dev/workshops/canvas)
+
+
  <!-- @Aakansha Doshi's GitHub Statistics by Anuraghazra -->
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ad1992&show_icons=true&theme=tokyonight&custom_title=Aakansha%20Doshi's%20GitHub%20Statistics&border_radius=20.0&border_color=2f353b)
 
