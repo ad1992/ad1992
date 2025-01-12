@@ -28,7 +28,7 @@ Checkout the details 👇
 
 <div align = "center">
 
-[![image](https://github.com/user-attachments/assets/41a50ded-2f0a-4aa6-9371-5715ac235072)](https://www.aakansha.dev/workshops/canvas)
+[![workshop](https://github.com/user-attachments/assets/1e37db6a-e2dc-4141-8124-6ad59eaa46bb)](https://www.aakansha.dev/workshops/canvas)
 
 
  <!-- @Aakansha Doshi's GitHub Statistics by Anuraghazra -->
