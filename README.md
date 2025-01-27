@@ -5,8 +5,8 @@
 [![Connect in Gmail](https://img.shields.io/badge/Connect-Gmail-ff6b6b?labelColor=4dabf7&style=flat-square)](mailto:aakansha1216@gmail.com)
 
 [![Support on Github Sponsors](https://img.shields.io/badge/❤️-Sponsor-f06595?labelColor=4dabf7&style=flat-square)](https://github.com/sponsors/ad1992)
-[![Talks](https://img.shields.io/badge/Community-Talks-ff922b?labelColor=4dabf7&style=flat-square)](https://aakansha.dev/talks)
-[![Appearances](https://img.shields.io/badge/Community-Appearances-20c997?labelColor=4dabf7&style=flat-square)](https://aakansha.dev/appearances)
+[![Talks](https://img.shields.io/badge/Community-Talks-ff922b?labelColor=4dabf7&style=flat-square)](https://blog.aakansha.dev/talks)
+[![Appearances](https://img.shields.io/badge/Community-Appearances-20c997?labelColor=4dabf7&style=flat-square)](https://blog.aakansha.dev/appearances)
 
 
 Hi :wave:
