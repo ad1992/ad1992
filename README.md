@@ -12,12 +12,11 @@
 Hi :wave:
 </div>
 
-I am Aakansha, a FOSS Enthusiast (Free and OpenSource Software Enthusiast). I love deep-diving into the Internals of Javascript and the Web. I am a core maintainer of [excalidraw](https://github.com/excalidraw/excalidraw), [mermaid-to-excalidraw,](https://github.com/excalidraw/mermaid-to-excalidraw) [react-tags](https://github.com/react-tags/react-tags), and more libraries. I am also an active conference Speaker.
+I am Aakansha, a FOSS Enthusiast (Free and OpenSource Software Enthusiast). I love deep-diving into the Internals of Javascript and the Web. Some of the projects I have heavily contributed to and maintained are [excalidraw](https://github.com/excalidraw/excalidraw), [mermaid-to-excalidraw,](https://github.com/excalidraw/mermaid-to-excalidraw) [react-tags](https://github.com/react-tags/react-tags), and more libraries. I am also an active conference Speaker. 
 
+If you are interested in backing my opensource efforts, you can take a look at my [sponsorship profile](https://github.com/sponsors/ad1992) 🙏
 
-As I am an Independent OpenSource developer, I rely on sponsorships to sustain my FOSS work, if you are interested in backing my opensource efforts, you can take a look at my [sponsorship profile](https://github.com/sponsors/ad1992) 🙏
-
-If you would like to discuss something, just drop me an [email](mailto:aakansha1216@gmail.com) :)
+If you would like to discuss something, just drop me an [email](hello@aakansha.dev) :)
 
 
 ## Canvas X React Workshop in 2025
