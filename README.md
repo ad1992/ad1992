@@ -16,7 +16,7 @@ I am Aakansha, a FOSS Enthusiast (Free and OpenSource Software Enthusiast). I lo
 
 If you are interested in backing my opensource efforts, you can take a look at my [sponsorship profile](https://github.com/sponsors/ad1992) 🙏
 
-If you would like to discuss something, just drop me an [email](hello@aakansha.dev) :)
+If you would like to discuss something, just drop me an [email](mailto:hello@aakansha.dev) :)
 
 
 ## Canvas X React Workshop in 2025
