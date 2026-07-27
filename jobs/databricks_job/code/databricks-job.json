@@ -1,0 +1,44 @@
+{
+  "fabric_id" : "4158",
+  "components" : [ ],
+  "request" : {
+    "format" : "MULTI_TASK",
+    "name" : "databricks_job",
+    "job_clusters" : [ {
+      "job_cluster_key" : "databricks_job_default_prophecy_internal_jobs",
+      "new_cluster" : {
+        "spark_version" : "15.4.x-scala2.12",
+        "node_type_id" : "i3.xlarge",
+        "driver_node_type_id" : "i3.xlarge",
+        "num_workers" : 0,
+        "spark_conf" : {
+          "spark.prophecy.metadata.fabric.id" : "4158",
+          "spark.prophecy.metadata.job.uri" : "__PROJECT_ID_PLACEHOLDER__/jobs/databricks_job",
+          "spark.prophecy.metadata.is.interactive.run" : "false",
+          "spark.prophecy.project.id" : "__PROJECT_ID_PLACEHOLDER__",
+          "spark.prophecy.metadata.user.id" : "2157",
+          "spark.prophecy.tasks" : "H4sIAAAAAAAAAKuuBQBDv6ajAgAAAA==",
+          "spark.prophecy.metadata.job.branch" : "__PROJECT_RELEASE_VERSION_PLACEHOLDER__",
+          "spark.prophecy.metadata.url" : "__PROPHECY_URL_PLACEHOLDER__",
+          "spark.prophecy.execution.metrics.disabled" : "false",
+          "spark.prophecy.execution.service.url" : "wss://app.prophecy.io/execution/eventws",
+          "spark.databricks.isv.product" : "prophecy"
+        }
+      }
+    } ],
+    "email_notifications" : { },
+    "tasks" : [ ],
+    "max_concurrent_runs" : 1,
+    "schedule" : {
+      "quartz_cron_expression" : "0 0 0 1 1 ? *",
+      "timezone_id" : "UTC",
+      "pause_status" : "PAUSED"
+    }
+  },
+  "cluster_mode" : {
+    "clusterMode" : "Single"
+  },
+  "secret_scope" : "prophecy_jobs_4157",
+  "sorted_processes" : [ ],
+  "is_prophecy_managed_fabric" : false
+}
