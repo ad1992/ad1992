@@ -1,0 +1,35 @@
+# ==================
+# Project Details
+# ==================
+name: "normal_sql"
+config-version: 2
+require-dbt-version:
+- ">=1.0.0"
+- "<2.0.0"
+version: "0.1"
+profile: "prophecy-default"
+
+# ==================
+# File Path Configs
+# ==================
+clean-targets:
+- "target"
+- "dbt_modules"
+- "logs"
+seed-paths:
+- "seeds"
+model-paths:
+- "models"
+- "prophecy-sources"
+macro-paths:
+- "macros"
+target-path: "target"
+
+# ==================
+# Model Configs
+# ==================
+models:
+  "+tblproperties":
+    delta.columnMapping.mode: "name"
+    delta.minReaderVersion: "2"
+    delta.minWriterVersion: "5"

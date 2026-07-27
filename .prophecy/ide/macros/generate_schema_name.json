@@ -1,0 +1,31 @@
+{
+  "generate_schema_name" : {
+    "name" : "generate_schema_name",
+    "macroType" : "expression",
+    "definition" : "{% set default_schema = target.schema %}\n \n{#\n-- Uncomment and use this section for DBT's default behaviour\n{{ default_schema }}_{{ custom_schema_name | trim }}\n#}\n{% if custom_schema_name is none %}\n  {{default_schema}}\n{% else %}\n  {{custom_schema_name | trim}}\n{% endif %} \n",
+    "parameters" : {
+      "type" : "record",
+      "fields" : [ {
+        "name" : "custom_schema_name",
+        "kind" : {
+          "type" : "value",
+          "value" : "none"
+        },
+        "optional" : true,
+        "isWorkflowNodeConfiguration" : false,
+        "isReferenced" : false
+      }, {
+        "name" : "node",
+        "kind" : {
+          "type" : "value",
+          "value" : "none"
+        },
+        "optional" : true,
+        "isWorkflowNodeConfiguration" : false,
+        "isReferenced" : false
+      } ]
+    },
+    "staleState" : "none",
+    "version" : 0
+  }
+}

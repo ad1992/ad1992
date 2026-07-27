@@ -26,7 +26,16 @@ subgraphs: {}
 sqlModels: {}
 sqlSnapshots: {}
 sqlTests: {}
-sqlMacros: {}
+sqlMacros:
+  .prophecy/metadata/sqlmacros/generate_schema_name:
+    name: generate_schema_name
+    macroType: expression
+    description: null
+    author: sony@prophecy.io
+    files:
+    - macros/generate_schema_name.sql
+    - .prophecy/ide/macros/generate_schema_name.json
+    createdAt: '2026-07-27 11:09:40'
 sqlSeeds: {}
 sqlSources: {}
 sqlUnreferencedSources: {}

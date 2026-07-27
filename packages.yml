@@ -1,0 +1,7 @@
+---
+packages:
+- revision: "1.0.15"
+  git: "https://github.com/prophecy-io/prophecy-basics"
+  subdirectory: ""
+- package: "dbt-labs/dbt_utils"
+  version: "1.3.3"
